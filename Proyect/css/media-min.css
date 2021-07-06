@@ -1,0 +1,8 @@
+
+.about-my--hj{padding:0;
+    display:grid;
+    justify-content:center
+}
+.about-my--row{
+    column-gap:100px
+}
